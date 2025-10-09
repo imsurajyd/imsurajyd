@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there! I'm Suraj Kumar
 
-<!--
-**imsurajyd/imsurajyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate **Web Developer** focused on building clean and responsive web apps.  
+Always learning, always creating. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I Do
+- MERN Stack Developer (in progress)  
+- Build **modern web applications** with clean UI & smooth UX  
+- Problem-solving & turning ideas into reality 🎯
+
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Tools:** Git & GitHub  
+
+---
+
+### 📫 Get in Touch
+- Email: [imsurajyd@gmail.com.com](mailto:imsurajyd@gmail.com)  
+- Let’s collaborate and build something amazing! ✨
